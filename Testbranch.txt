@@ -1,0 +1,3 @@
+cd ///
+git remote add upstream git://github.com/origin-name/.git
+git fetch upstream
